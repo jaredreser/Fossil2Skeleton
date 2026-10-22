@@ -4,6 +4,13 @@
 
 This repository contains a **reconstruction of the prototype specification**, not the original source archive. The original ZIP/code mentioned in the prior conversation could not be recovered. This implementation was written from the recoverable record of that work and is labeled accordingly. It is an experimental software artifact, not a validated fossil reconstruction system.
 
+## Research article and figure
+
+- [Fossil2Skeleton: Probabilistic Reconstruction of Complete Skeletal Anatomy from Fossil Fragments](paper/Fossil2Skeleton_Reser_2026-10-21.md), Jared Edward Reser, October 21, 2026. [Published article](https://iteratedinsights.com/2026/10/21/fossil2skeleton/).
+- [Proposed machine-learning pipeline](figures/Fossil2Skeleton_pipeline_2026-10-21.jpeg), supplied by Jared Edward Reser.
+
+The article and figure describe the proposed full research program. The code below implements only a synthetic landmark-completion demonstration; it does not implement the article's conditional diffusion, complete bone geometry, or cross-species evaluation.
+
 ## Concept and attribution
 
 The integrated Fossil2Skeleton research concept is Jared Edward Reser's: use fragmentary skeletal morphology as evidence for machine-generated, uncertainty-aware completion of a plausible whole skeleton. Earlier work on virtual fossil reconstruction, geometric morphometrics, and statistical missing-shape estimation is cited below as methodological context. Those references do not describe or establish authorship of this integrated Fossil2Skeleton proposal.
