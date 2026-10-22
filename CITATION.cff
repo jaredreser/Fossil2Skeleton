@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, cite it as a reconstructed prototype and note its synthetic-only status."
+title: "Fossil2Skeleton"
+version: "0.1.0-reconstruction"
+date-released: 2026-10-22
+authors:
+  - family-names: Reser
+    given-names: Jared Edward
+    affiliation: Independent researcher
+repository-code: "https://github.com/jaredreser/Fossil2Skeleton"
+license: MIT
+abstract: "Reconstructed prototype for transformer-based completion of missing 3D skeletal landmarks, demonstrated only on synthetic shapes."
