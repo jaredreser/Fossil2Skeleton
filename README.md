@@ -69,7 +69,7 @@ The core tests cover deterministic data generation, mask invariants, preservatio
 ## Repository provenance
 
 - **Concept origin:** Jared Edward Reser.
-- **Code status:** Reconstructed implementation, 2026-10-22, based on the prior conversation record because the earlier prototype archive was unavailable.
+- **Code status:** The earlier prototype archive was unavailable. This source snapshot was reconstructed by ChatGPT on 2026-10-22 from the recoverable conversation specification, under Reser's direction; it is not the original implementation.
 - **Version:** 0.1.0-reconstruction.
 - **License:** MIT, retained from the existing repository.
 
